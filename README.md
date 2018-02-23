@@ -1,10 +1,20 @@
 # Retinal-OCT-state-of-art
 Recopilation of most revelant papers of the retinal image analysis via OCT 
 
+PUBLIC DATASETS
+[www.duke.edu/~sf59/Chiu_BOE_2014_dataset.htm](www.duke.edu/~sf59/Chiu_BOE_2014_dataset.htm)
+
+**Kernel regression based segmentation of optical coherence tomography images with diabetic macular edema**
+2015 *Chiu et al*
+
+
+
 
 - (2015) > 20 cites
 **State-of-the-art in retinal optical coherence tomography image analysis.** *Baghaie A1, Yu Z1, D'Souza RM1.*
 Quant Imaging Med Surg. 2015 Aug;5(4):603-17. doi:[10.3978/j.issn.2223-4292.2015.07.02.](10.3978/j.issn.2223-4292.2015.07.02.)
+
+
 
 Main steps:
 
