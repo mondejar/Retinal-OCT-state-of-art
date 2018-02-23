@@ -24,5 +24,19 @@ Main steps:
 
 ## Segmentation:
 
+### [Automatic segmentation of seven retinal layers in SDOCT images congruent with expert manual segmentation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408910/)
+*Chiu et al.*
+(2010) > 300 citas
+
+Segmentation of retinal layers in Spectral Domain Optical Coherence Tomography images using graph theory and dynamic programming.
+
+#### Code implementation:
+Simplified version [Matlab](https://es.mathworks.com/matlabcentral/fileexchange/43518-graph-based-segmentation-of-retinal-layers-in-oct-images)
+
+Full version [Matlab](https://github.com/pangyuteng/caserel)
+
+
+
+
 
 ## Image Registration
