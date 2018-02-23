@@ -10,7 +10,7 @@ Main steps:
 
 ## Noise reduction:
   
-  - (1990) > 13.000 citas
+  - (1990) > 13.000 cites
     Scale-space and edge detection using anisotropic diffusion  
   
   - (1980)
@@ -26,7 +26,7 @@ Main steps:
 
 ### [Automatic segmentation of seven retinal layers in SDOCT images congruent with expert manual segmentation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408910/)
 *Chiu et al.*
-(2010) > 300 citas
+(2010) > 300 cites
 
 Segmentation of retinal layers in Spectral Domain Optical Coherence Tomography images using graph theory and dynamic programming.
 
@@ -35,8 +35,28 @@ Simplified version [Matlab](https://es.mathworks.com/matlabcentral/fileexchange/
 
 Full version [Matlab](https://github.com/pangyuteng/caserel)
 
+### [Retinal layer segmentation of macular OCT images using boundary classification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3704094/)
+*A. Lang et al*
+2013 ~= 100 Cites
+
+A random forest classifier to segment eight retinal layers in macular cube images acquired by OCT.
 
 
+### [Segmentation of Intra-Retinal Layers from Optical Coherence Tomography Images using an Active Contour Approach](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5601784)
+*A Yazdanpanah et al*
+2011 > 100 cites
+
+A semiautomated segmentation algorithm to detect intra-retinal layers in OCT images acquired from rodent models of retinal degeneration.
+
+
+
+### [ReLayNet: Retinal Layer and Fluid Segmentation of Macular Optical Coherence Tomography using Fully Convolutional Networks](https://arxiv.org/abs/1704.02161)
+*A. G. Roy et al*
+2017 
+
+Arxiv
+
+A Deep learning architecture for end-to-end segmentation of retinal layers and fluid masses in eye OCT scans.
 
 
 ## Image Registration
